@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Semangka Merah VS Semangka Kuning_ Mana.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Semangka\Semangka Merah VS Semangka Kuning_ Mana.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>94</ymin>
+			<xmax>489</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>29</ymin>
+			<xmax>342</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

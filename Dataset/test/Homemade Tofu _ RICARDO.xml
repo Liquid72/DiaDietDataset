@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tahu</folder>
+	<filename>Homemade Tofu _ RICARDO.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Tahu\Homemade Tofu _ RICARDO.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>1290</ymin>
+			<xmax>1124</xmax>
+			<ymax>1999</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>742</ymin>
+			<xmax>1453</xmax>
+			<ymax>1419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>231</ymin>
+			<xmax>1846</xmax>
+			<ymax>1087</ymax>
+		</bndbox>
+	</object>
+</annotation>

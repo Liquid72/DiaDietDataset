@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>How to make Charleston red rice_ a.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\NasiMerah\How to make Charleston red rice_ a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2581</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>17</ymin>
+			<xmax>3872</xmax>
+			<ymax>2437</ymax>
+		</bndbox>
+	</object>
+</annotation>

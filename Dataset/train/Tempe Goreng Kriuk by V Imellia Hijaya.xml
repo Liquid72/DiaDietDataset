@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tempe</folder>
+	<filename>Tempe Goreng Kriuk by V Imellia Hijaya.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Tempe\Tempe Goreng Kriuk by V Imellia Hijaya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>222</ymin>
+			<xmax>414</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>

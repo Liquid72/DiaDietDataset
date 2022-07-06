@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>How to Cook Rice.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\NasiPutih\How to Cook Rice.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>21</ymin>
+			<xmax>1995</xmax>
+			<ymax>927</ymax>
+		</bndbox>
+	</object>
+</annotation>

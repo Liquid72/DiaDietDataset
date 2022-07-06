@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Pristine Sunny-Side Up Eggs Recipe.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Telur\Pristine Sunny-Side Up Eggs Recipe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>33</ymin>
+			<xmax>326</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

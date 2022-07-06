@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Manfaat Biji Semangka untuk Kesehatan.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Semangka\Manfaat Biji Semangka untuk Kesehatan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>76</ymin>
+			<xmax>268</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>67</ymin>
+			<xmax>587</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

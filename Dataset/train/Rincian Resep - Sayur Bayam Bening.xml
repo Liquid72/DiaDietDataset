@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Rincian Resep - Sayur Bayam Bening.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\SayurBayam\Rincian Resep - Sayur Bayam Bening.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>173</ymin>
+			<xmax>1069</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tempe</folder>
+	<filename>Tempe Kriuk _ Resep dari Dapur KOBE.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Tempe\Tempe Kriuk _ Resep dari Dapur KOBE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>617</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>165</ymin>
+			<xmax>259</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>149</ymin>
+			<xmax>380</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>78</ymin>
+			<xmax>382</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

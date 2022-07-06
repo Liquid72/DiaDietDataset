@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Lowcountry Red Rice With Ham Recipe.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\NasiMerah\Lowcountry Red Rice With Ham Recipe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2133</width>
+		<height>2133</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>41</ymin>
+			<xmax>2133</xmax>
+			<ymax>1880</ymax>
+		</bndbox>
+	</object>
+</annotation>

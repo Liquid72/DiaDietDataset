@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tempe</folder>
+	<filename>Berita Tempe Goreng Terbaru Hari Ini.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Tempe\Berita Tempe Goreng Terbaru Hari Ini.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>945</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>107</ymin>
+			<xmax>474</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>149</ymin>
+			<xmax>645</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>171</ymin>
+			<xmax>893</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

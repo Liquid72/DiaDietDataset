@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Arroz Rojo Recipe_ Authentic Mexican.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\NasiMerah\Arroz Rojo Recipe_ Authentic Mexican.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>237</ymin>
+			<xmax>1281</xmax>
+			<ymax>1155</ymax>
+		</bndbox>
+	</object>
+</annotation>

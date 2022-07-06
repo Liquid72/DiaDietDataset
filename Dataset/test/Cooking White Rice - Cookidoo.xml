@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Cooking White Rice - Cookidoo.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\NasiPutih\Cooking White Rice - Cookidoo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>639</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>44</ymin>
+			<xmax>764</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

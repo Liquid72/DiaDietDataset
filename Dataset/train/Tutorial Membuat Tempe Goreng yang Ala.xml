@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tempe</folder>
+	<filename>Tutorial Membuat Tempe Goreng yang Ala.jpg</filename>
+	<path>C:\Users\Rico Fitra Pratama\Downloads\Dataset\Tempe\Tutorial Membuat Tempe Goreng yang Ala.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>100</ymin>
+			<xmax>372</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>86</ymin>
+			<xmax>207</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>71</ymin>
+			<xmax>121</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
