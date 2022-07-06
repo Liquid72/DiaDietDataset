@@ -1,0 +1,49 @@
+item {
+    id: 1
+    name: 'Ayam'
+}
+
+item {
+    id: 2
+    name: 'Melon'
+}
+
+item {
+    id: 3
+    name : 'Mie' 
+}
+
+item {
+    id: 4
+    name : 'Nasi Merah' 
+}
+
+item {
+    id: 5
+    name : 'Nasi Putih' 
+}
+
+item {
+    id: 6
+    name : 'Sayur Bayam' 
+}
+
+item {
+    id: 7
+    name : 'Semangka' 
+}
+
+item {
+    id: 8
+    name : 'Tahu' 
+}
+
+item {
+    id: 9
+    name : 'Telur' 
+}
+
+item {
+    id: 10
+    name : 'Tempe' 
+}
